@@ -11,3 +11,10 @@ El día de hoy veremos algunas ventajas que se adquieren al armar cubos rubik.
 3.- También fomenta la paciencia y la perseverancia, la atención y la concentración.
 
 4.- Fomenta la ejecución de estrategias, generalmente al querer mejorar en el tiempo de armado, se repiten y descubren nuevos movimientos para poder ir bajando el tiempo de ejecución.
+
+# Existen distintos tipos de cubos rubik.
+
+Hace muchos años apareció el conocido cubo rubik, que está conformado por 9 pequeños cubos en cada cara del mismo, este tiene una forma de cubo.
+Pero hace ya mucho tiempo empezaron a integrarse nuevas formas, dentro de las cuales podemos encontrar: 
+
+"Cubos" conforma de pirámide, dodecaedros, esferas y otras aleaciones de los mismos. 
