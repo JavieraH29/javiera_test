@@ -18,3 +18,7 @@ Hace muchos años apareció el conocido cubo rubik, que está conformado por 9 p
 Pero hace ya mucho tiempo empezaron a integrarse nuevas formas, dentro de las cuales podemos encontrar: 
 
 "Cubos" conforma de pirámide, dodecaedros, esferas y otras aleaciones de los mismos. 
+
+# ¿Sabes armar un cubo rubik?
+
+Si tu respuesta es no, no te preocupes, según un estudio realizado al año 2019 el 94% de la población no sabe armarlos, mientras que solo al rededor del 5.8% de las personas que lo han intentado lo han conseguido.
